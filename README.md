@@ -13,8 +13,7 @@ Search functionality by matching terms in title, body, summary, and categories.
 Django Admin panel for managing users and content.
 
 Setup:
-Clone the repository: git clone https://github.com/your-username/django-video-processing.git
-
+Clone the repository: git clone https://github.com/Arunvish987/Arcitech_task/tree/master
 Install dependencies:
 pip install -r requirements.txt
 
